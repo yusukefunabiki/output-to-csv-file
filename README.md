@@ -61,3 +61,6 @@ $ python abc.py >> abc.csv
 | A |
 | B |
 | C |
+
+と表示される。
+
